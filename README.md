@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Baiastan1
 - 👀 I’m interested in product management, mobile development
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me
-Я - программист-самоучка, уже год изучающий Flutter. Мне нравится изучать и создавать приложения с использованием этого фреймворка. Я стремлюсь развиваться и улучшать свои навыки в программировании, особенно в разработке мобильных приложений. Я целеустремленный и самостоятельный, и готовый принимать новые вызовы в своей области.
+- 💞️ I’m looking to collaborate on
+- I am a self-taught programmer who has been studying Flutter for a year. I like to study and create applications using this framework. I strive to develop and improve my programming skills, especially in the development of mobile applications. I am purposeful and independent, and ready to take on new challenges in my field.
+
 
 <!---
 Baiastan1/Baiastan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
