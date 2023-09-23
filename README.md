@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Baiastan1
+- 👋 Hi, I’m @Infinity
 - 👀 I’m interested in product management, mobile development
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on
